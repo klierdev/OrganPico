@@ -42,6 +42,6 @@ When you click/hold a button on the web gui it will then send a midi signal to G
 
 
 ## Credits
-Me
-deepseek (I tried GPT-4o and it was terrible, deepseek still had many errors though)
+- Me
+- deepseek (I tried GPT-4o and it was terrible, deepseek still had many errors though)
 
