@@ -45,3 +45,5 @@ When you click/hold a button on the web gui it will then send a midi signal to G
 - Me
 - deepseek (I tried GPT-4o and it was terrible, deepseek still had many errors though)
 
+Use VSCode with this extension if you want to modify the code: https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython
+Also feel free to open up an issue if you have any question or if you've found bugs. :)
